@@ -1,7 +1,7 @@
 # blockchain-resource
 
 ## Title Recomended to learn 
-Cryptography (`Signature`, Encryption)  
+Cryptography (`Keypair`,`Public & Private Key`, `Signature`, Encryption)  
 
 ## Thailand Resource
 What is blockchain https://nuuneoi.com/blog/blog.php?read_id=900 .    
