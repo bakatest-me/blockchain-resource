@@ -15,4 +15,5 @@ Crypto open-source ecosystem https://medium.com/loom-network/crypto-open-source-
 Merkle tree https://hackernoon.com/merkle-tree-introduction-4c44250e2da7 .   
 Merkle tree VDO (How Merkle Trees Enable the Decentralized Web) https://www.youtube.com/watch?v=3giNelTfeAk .   
 Block Data structure (BTC/ETH) https://www.youtube.com/watch?v=pHEw4Z3UgUc .   
+Lighning Network https://www.youtube.com/watch?v=rrr_zPmEiME .  
 
