@@ -13,4 +13,6 @@ blockchain coding https://github.com/openblockchains/awesome-blockchains .
 blockchain book https://github.com/coderplex/awesome-blockchain .   
 Crypto open-source ecosystem https://medium.com/loom-network/crypto-open-source-ecosystem-1-0-fcd25933c5e8 .   
 Merkle tree https://hackernoon.com/merkle-tree-introduction-4c44250e2da7 .   
+Merkle tree VDO (How Merkle Trees Enable the Decentralized Web) https://www.youtube.com/watch?v=3giNelTfeAk .   
+Block Data structure (BTC/ETH) https://www.youtube.com/watch?v=pHEw4Z3UgUc .   
 
